@@ -1,0 +1,24 @@
+.company {
+  border-spacing: 10px;
+}
+
+table .title {
+  width: 150px;
+  height: 7rem;
+  text-align: right;
+}
+
+table .form {
+  width: 480px;
+}
+
+article .submit {
+  text-align: center;
+}
+
+.btn {
+  background-color: #41b1a0;
+  padding: 5px;
+  color: #fff;
+  font-size: 2rem;
+}
