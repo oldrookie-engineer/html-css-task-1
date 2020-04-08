@@ -6,6 +6,7 @@ table .title {
   width: 150px;
   height: 7rem;
   text-align: right;
+  font-weight: bold;
 }
 
 table .form {
@@ -21,4 +22,8 @@ article .submit {
   padding: 5px;
   color: #fff;
   font-size: 2rem;
+}
+
+.btn:hover {
+  opacity: 0.5;
 }
